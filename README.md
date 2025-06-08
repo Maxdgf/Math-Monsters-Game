@@ -10,9 +10,18 @@ a kind of horror😁 where you have to solve math problems to survive from monst
 | ![Screen 3](Assets/github/screen_shop.png) |
 | Screen 3    |
 
+Solve examples and kill monsters, get crystalls💎 and buy bonuses in shop.
+
 ## 🌟Features
-- Math examples generation in 5 difficulity modes.
-- Unique game mechanic.
-- Mini shop.
-- Game start cutscene.
-- Learning game control panel. 
+- Math examples generation in 5 difficulity modes📄.
+- Unique game mechanic⚙️.
+- Mini shop💰.
+- Game start cutscene with dialog🎥.
+- Learning game control panel📖. 
+- 3D models of our own design🖌.
+
+Used assets:
+
+###
+   DAY-NIGHT skyboxes
+
