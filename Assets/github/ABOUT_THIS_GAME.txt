@@ -1,0 +1,6 @@
+If you're reading this then, hello😃!
+This is a game where you have to solve mathematical examples to escape from monsters, there are different levels of difficulty and a small shop of improvements 😁. This is one of my few projects on the unity game engine which turned out to be more or less satisfactory and with better graphics (in my opinion), mechanics, before it was just a so scary😞. Here I also applied my modelling skills in Blender. Well... this is not the end! I will continue to develop in the field of game development. I dream to reach unreal engine, and then to create my own game engine....⚡
+
+PS: I wouldn't be surprised if this game has a lot of bugs, these are my first steps...
+
+May 20, 2025 year.
