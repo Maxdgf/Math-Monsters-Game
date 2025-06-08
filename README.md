@@ -11,8 +11,8 @@ a kind of horror😁 where you have to solve math problems to survive from monst
 | Screen 3    |
 
 ## 🌟Features
--Math examples generation in 5 difficulity modes.
--Unique game mechanic.
--Mini shop.
--Game start cutscene.
--Learning game control panel. 
+- Math examples generation in 5 difficulity modes.
+- Unique game mechanic.
+- Mini shop.
+- Game start cutscene.
+- Learning game control panel. 
