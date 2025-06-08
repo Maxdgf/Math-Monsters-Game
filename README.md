@@ -20,8 +20,8 @@ Solve examples and kill monsters, get crystalls💎 and buy bonuses in shop.
 - Learning game control panel📖. 
 - 3D models of our own design🖌.
 
-Used assets:
+## 📚Used assets:
 
-###
-   DAY-NIGHT skyboxes
+##
+    Day-Night Skyboxes
 
